@@ -13,6 +13,8 @@ BhoomiLog (भूमि लॉग) is a simplistic yet powerful dashboard design
 - Payment tracking and reconciliation
 
 ## Features
+![BhoomiLog HLD](public/bhoomilog_hld.png)
+![BhoomiLog ER](public/er_diagram.png)
 
 ### Core Functionality
 - **Dashboard Overview** - Summary of lands, active agreements, expected income, and pending payments
@@ -269,22 +271,3 @@ All data operations use Supabase client SDK with real-time listeners.
 - Mobile app (React Native)
 - Multilingual support (Hindi, Punjabi, etc.)
 - Offline mode with sync
-
-## License
-
-MIT License - feel free to use for personal or commercial projects
-
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review Supabase documentation
-3. Contact support at vercel.com/help
-
-## Credits
-
-Built with ❤️ for agricultural land owners in India using:
-- [Next.js](https://nextjs.org)
-- [Supabase](https://supabase.com)
-- [Tailwind CSS](https://tailwindcss.com)
-- [shadcn/ui](https://ui.shadcn.com)
